@@ -1,12 +1,12 @@
 {
-  "name":"PWA Tutorial",
-  "short_name":"PWA",
+  "name":"Gorilla Flow™ | Official Website",
+  "short_name":"Gorilla Flow™",
   "start_url":"index.html",
   "display":"standalone",
   "background_color":"#5900b3",
   "theme_color":"#FF5733",
   "scope": ".",
-  "description":"This is a PWA tutorial.",
+  "description":"Gorilla Flow is a supplement that prevents and cures infections in the urinary tract.",
   "icons":[
   {
   "src":"icons/favicon-192x192.png",                     
